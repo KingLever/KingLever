@@ -26,11 +26,11 @@ As categorias abaixo distinguem o que aparece no código público do meu roteiro
 
 | Categoria | Evidência nos projetos públicos | Estudos e próximos passos |
 | :--- | :--- | :--- |
-| Linguagens | **JavaScript** · **Python** | PHP · Java; aprofundamento em JavaScript e Python |
-| Desenvolvimento Web | Three.js | Bootstrap |
-| Bancos de Dados | — | MySQL · PostgreSQL |
+| Linguagens | **PHP** · **JavaScript** · **Python** | Java; aprofundamento em PHP, JavaScript e Python |
+| Desenvolvimento Web | Three.js · Bootstrap | — |
+| Bancos de Dados | **MySQL** | PostgreSQL |
 | Ferramentas | **GitHub** — versionamento dos projetos | Git · Docker · VS Code — roteiro de ferramentas |
-| Conceitos | Manipulação do DOM · visualização 3D · pipeline de processamento de imagens | MVC · CRUD · orientação a objetos · back-end · bancos relacionais · testes automatizados |
+| Conceitos | MVC · cadastro e consulta em MySQL · manipulação do DOM · visualização 3D · pipeline de processamento de imagens | CRUD completo · orientação a objetos · testes automatizados |
 
 ## Projetos em destaque
 
@@ -61,12 +61,16 @@ Estudo de navegação por escolhas: botões alternam as etapas da narrativa por 
 
 [Ver repositório](https://github.com/KingLever/one-piece) · [Lógica de navegação](https://github.com/KingLever/one-piece/blob/main/script.js)
 
-<details>
-<summary><strong>Próximo projeto / CRUD com PHP + MySQL</strong></summary>
+### 04 / [Gestão de Funcionários — PHP MVC](https://github.com/KingLever/crud-php-mysql)
 
-Projeto planejado para praticar cadastro, consulta, atualização e exclusão com organização MVC. Ainda não apresentado como implementação pública. A documentação e o link serão adicionados quando o código estiver disponível.
+Projeto acadêmico para cadastrar funcionários e consultar registros com filtro por nome. Código separado em controller, model e views, com estrutura SQL e instruções de instalação local.
 
-</details>
+**PHP · MySQL · Bootstrap 5 · MVC**
+
+**Status:** cadastro e consulta implementados; edição e exclusão ainda não disponíveis. Projeto para estudo e execução local.
+
+[Ver repositório](https://github.com/KingLever/crud-php-mysql) · [Instalação e documentação](https://github.com/KingLever/crud-php-mysql#readme)
+
 
 ## GitHub Analytics
 
