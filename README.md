@@ -20,14 +20,14 @@ Busco oportunidades para aplicar esses conhecimentos em projetos reais, aprender
 
 ## Tecnologias & Ferramentas
 
-<img src="assets/stack.svg" width="760" alt="Tecnologias verificadas nos projetos públicos: JavaScript, Python, HTML5, CSS3 e Three.js." />
+<img src="assets/stack.svg" width="760" alt="Tecnologias em foco: JavaScript, Python, MySQL, Java e Three.js. MySQL e Java em estudo." />
 
 As categorias abaixo distinguem o que aparece no código público do meu roteiro de aprendizado. Não representam níveis de proficiência.
 
 | Categoria | Evidência nos projetos públicos | Estudos e próximos passos |
 | :--- | :--- | :--- |
 | Linguagens | **JavaScript** · **Python** | PHP · Java; aprofundamento em JavaScript e Python |
-| Desenvolvimento Web | **HTML5** · **CSS3** · Three.js | Bootstrap |
+| Desenvolvimento Web | Three.js | Bootstrap |
 | Bancos de Dados | Ainda sem implementação pública identificada | MySQL · PostgreSQL |
 | Ferramentas | **GitHub** — versionamento dos projetos | Git · Docker · VS Code — roteiro de ferramentas |
 | Conceitos | Manipulação do DOM · visualização 3D · pipeline de processamento de imagens | MVC · CRUD · orientação a objetos · back-end · bancos relacionais · testes automatizados |
