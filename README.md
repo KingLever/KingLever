@@ -27,7 +27,7 @@ As categorias abaixo distinguem o que aparece no código público do meu roteiro
 | Categoria | Evidência nos projetos públicos | Estudos e próximos passos |
 | :--- | :--- | :--- |
 | Linguagens | **PHP** · **JavaScript** · **Python** | Java; aprofundamento em PHP, JavaScript e Python |
-| Desenvolvimento Web | Three.js · Bootstrap | — |
+| Desenvolvimento Web | **HTML5** · **CSS3** · Three.js · Bootstrap | — |
 | Bancos de Dados | **MySQL** | PostgreSQL |
 | Ferramentas | **GitHub** — versionamento dos projetos | Git · Docker · VS Code — roteiro de ferramentas |
 | Conceitos | MVC · cadastro e consulta em MySQL · manipulação do DOM · visualização 3D · pipeline de processamento de imagens | CRUD completo · orientação a objetos · testes automatizados |
