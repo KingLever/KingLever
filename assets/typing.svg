@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="680" height="48" viewBox="0 0 680 48" role="img" aria-labelledby="title">
+  <title id="title">Estudante de ADS · Explorando o universo do Back-end</title>
+  <style>
+    .reveal{animation:type 7s steps(49,end) infinite}
+    .cursor{animation:blink 1s step-end infinite}
+    @keyframes type{0%,8%{width:0}65%,90%{width:650px}100%{width:0}}
+    @keyframes blink{50%{opacity:0}}
+    @media(prefers-reduced-motion:reduce){.reveal,.cursor{animation:none}.cursor{opacity:0}}
+  </style>
+  <defs><clipPath id="typing"><rect class="reveal" width="650" height="48"/></clipPath></defs>
+  <rect width="680" height="48" rx="6" fill="#0D1117"/>
+  <g clip-path="url(#typing)">
+    <text x="12" y="30" fill="#00E676" font-size="19" font-family="Consolas,monospace">&gt; Estudante de ADS / Explorando o Back-end<tspan class="cursor">_</tspan></text>
+  </g>
+</svg>
